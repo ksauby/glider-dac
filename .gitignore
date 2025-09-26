@@ -25,3 +25,4 @@ activate
 # ERDDAP datasets.xml, stores persistent changes and must be created by user manually
 datasets.xml
 .Rproj.user
+glider-dac.Rproj
