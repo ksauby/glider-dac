@@ -26,3 +26,7 @@ activate
 datasets.xml
 .Rproj.user
 glider-dac.Rproj
+.Rhistory
+_docs/ngdac-netcdf-file-format-version-2.html
+_docs/ngdac-netcdf-file-format-version-2-creation-code.md
+_docs/ngdac-netcdf-file-submission-process.html
